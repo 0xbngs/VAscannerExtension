@@ -1,4 +1,4 @@
-Download File VAscannerExtension
+Download File VA Extension
 setelah itu
 Buka Chrome dan navigasikan ke chrome://extensions/.
 Aktifkan Developer mode (Mode Pengembang) di pojok kanan atas.
